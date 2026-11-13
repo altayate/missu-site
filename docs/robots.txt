@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://altayate.github.io/missu-site/sitemap.xml
